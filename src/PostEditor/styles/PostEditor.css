@@ -1,0 +1,21 @@
+.post-editor {
+  margin: 1em 20%;
+}
+.post-editor-button {
+  float: right;
+  margin-top: 1em;
+}
+
+.btn.btn-primary.post-editor-button{
+  margin-bottom: 1.5em;
+}
+
+@media(max-width: 900px) {
+  .post-editor {
+    margin: 1em;
+  }
+
+  .post-body {
+    margin: 1em;
+  }
+}
