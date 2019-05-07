@@ -2,7 +2,7 @@
   "name": "forum",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/VaidSaraswat/PCHacks/tree/master/Website",
+  "homepage": "https://github.com/VaidSaraswat/Forum",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "faker": "^4.1.0",
